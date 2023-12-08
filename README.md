@@ -6,7 +6,7 @@ https://github.com/HeshamHM/Flexible-Filter-ExpressionBuilder/assets/65486855/1d
 ## Features
 - Build dynamic filters for user entities.
 - Flexibility to add and combine multiple filters.
-- Designed for use with C# projects.
+
 
 
 ## What can you add to improve the expression builder?
